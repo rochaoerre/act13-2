@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="io.cordova.compass" version="1.5.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
   <preference name="phonegap-version" value="cli-9.0.0" />
-  <name>Ejemplo 12-1</name>
+  <name>Ejemplo 13-2</name>
   <description>
       Esta es una app de PhoneGapp de capture
   </description>
